@@ -3,6 +3,8 @@
 
 #### 本代码在开源工作 UMF-CMGR 上进行训练和测试 ，如有侵权，请联系本人删除 Q：1843945104
 
+####  本项目数据集和训练权重链接: https://pan.baidu.com/s/1exPI31jwuy7suS_ZwnzXjw 提取码: 1234
+
 #### 非常感谢原作者 Di Wang, Jinyuan Liu, Xin Fan, and Risheng Liu  的开源工作
 
 #### 论文题目《Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration》
