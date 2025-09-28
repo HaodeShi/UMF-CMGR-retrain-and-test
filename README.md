@@ -80,7 +80,7 @@
    3. 测试结果（均为自己训练的结果）  
        （1）配准测试结果（！！可以发现，训练后的模型配准还是有效果的）
        ![Fig\peizhun.png](https://github.com/HaodeShi/UMF-CMGR-retrain-and-test/blob/main/Fig/peizhun.png)  
-       （2）配准定性测试结果
+       （2）配准定量测试结果
          ```python
             Stage 1: 运行 Evaluation\metrics.py，得到测试结果
 
@@ -89,7 +89,7 @@
             配准图像测试：Average MSE=0.0047011, NCC=0.94955, LNCC=0.58296
          ```
 
-      （2）融合测试结果(可以观察到，配准与不配准融合差别还是挺大的)
+      （3）融合测试结果(可以观察到，配准与不配准融合差别还是挺大的)
        !![Fig\ronghe.png](https://github.com/HaodeShi/UMF-CMGR-retrain-and-test/blob/main/Fig/ronghe.png)  
 
 
